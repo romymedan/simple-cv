@@ -98,11 +98,11 @@
 					<div class="tab-pane" id="who">
 						<p class="top"><a class="anchorLink" href="#container"><i class="icon-hand-up"></i> top</a></p>
 						<h2>Who am I ?</h2>
-						<p>My name is <a href="mailto"><strong>Romy Medan</strong></a>
-						young Webdesigner,<br/>
-						if i describe myself in 3 words :<br/>
+						<p>My name is <a href="mailto:romy.medan@gmail.com"><strong>Romy Medan</strong></a>
+						young Web Designer,<br/>
+						If I have to describe myself in 3 words:<br/>
 						Creative, passionate & dynamic. <br/>
-						Add to that a great sense of humor and a good relationship! </p>
+						Add to that a great sense of humor and a good spirit!</p>
 						<h2>Address</h2>
 						<p>
 							<i class="icon-map-marker"></i>
@@ -115,7 +115,7 @@
 					<div class="tab-pane " id="contact">
 						<p class="top"><a class="anchorLink" href="#container"><i class="icon-hand-up"></i> top</a></p>
 							<h2>Contact Me</h2>
-								<p><i class="icon-envelope"></i> romy.medan@gmail.com</p>
+								<p><i class="icon-envelope"></i><a href="mailto:romy.medan@gmail.com"> romy.medan@gmail.com</a></p>
 								<p><i class="icon-bullhorn"></i> +1404.402.4509</p>
 							<!-- <form class="form-horizontal"> -->
 							<form id="contactForm" class="form-horizontal" method="post" name="contact_form" action="./php/contact-form-handler.php">
