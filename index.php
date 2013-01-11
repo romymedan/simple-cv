@@ -92,9 +92,7 @@
 					<div class="tab-pane" id="need">
 						<p class="top"><a class="anchorLink" href="#container"><i class="icon-hand-up"></i> top</a></p>
 						<h2>Need a Web Site?</h2>
-						<p>Lorem Elsass ipsum placerat geïz varius wie Mauris aliquam nüdle hop tristique wurscht rucksack.</p>
-						<p>ftomi! turpis, gal barapli Oberschaeffolsheim s'guelt mollis tellus non leverwurscht ornare Strasbourg elit quam, sit Richard Schirmeck vulputate et messti de Bischheim id picon bière munster leo Huguette hopla amet, lotto-owe knepfle amet id, und in</p>
-						
+						<p>Just let me know!</p>
 					</div>	
 					<hr/>
 					<div class="tab-pane" id="who">
