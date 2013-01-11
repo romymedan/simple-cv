@@ -115,7 +115,7 @@
 					<div class="tab-pane " id="contact">
 						<p class="top"><a class="anchorLink" href="#container"><i class="icon-hand-up"></i> top</a></p>
 							<h2>Contact Me</h2>
-								<p><i class="icon-envelope"></i><a href="mailto:romy.medan@gmail.com"> romy.medan@gmail.com</a></p>
+								<p><i class="icon-envelope"></i> <a href="mailto:romy.medan@gmail.com">romy.medan@gmail.com</a></p>
 								<p><i class="icon-bullhorn"></i> +1404.402.4509</p>
 							<!-- <form class="form-horizontal"> -->
 							<form id="contactForm" class="form-horizontal" method="post" name="contact_form" action="./php/contact-form-handler.php">
