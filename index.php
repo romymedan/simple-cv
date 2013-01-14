@@ -22,7 +22,7 @@
 				<li><a href="mailto:romy.medan@gmail.com" class="btn "><img src="./img/glyphicons_contact.png"/></a></li>
 				<li><a href="#" target="_blank" class="btn "><img src="./img/glyphicons_tw.png"/></a></li>
 				<li><a href="http://www.facebook.com/romy.lazarev" target="_blank" class="btn "><img src="./img/glyphicons_fb.png"/></a></li>
-				<li><a href="http://www.linkedin.com/in/romymedan/" target="_blank" class="btn "><img src="./img/glyphicons_linked_in.png"/></a></li>
+				<li><a href="http://www.linkedin.com/in/romymedan" target="_blank" class="btn "><img src="./img/glyphicons_linked_in.png"/></a></li>
 				</ul>
 							
 			</div>
