@@ -6,6 +6,7 @@
 		 <link href="css/custom.css" rel="stylesheet">
 	</head>
 	<body>
+		<a href="https://github.com/romymedan/simple-cv"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
 		<div class="container" id="container">
 			<div class="content">
 			<div class="row">
@@ -13,14 +14,15 @@
 				<div class="hero-unit span5">
 					<div class="arrow-right"></div>
 					
-                    <h1>Hello my name is Romy,<br/>
+                    <h1>Hello, my name is Romy,<br/>
 					and I'm a web designer</h1>
                     
                 </div>
 				<ul class="relations span11">
 				<li><a href="mailto:romy.medan@gmail.com" class="btn "><img src="./img/glyphicons_contact.png"/></a></li>
-				<li><a href="#" class="btn "><img src="./img/glyphicons_tw.png"/></a></li>
+				<li><a href="#" target="_blank" class="btn "><img src="./img/glyphicons_tw.png"/></a></li>
 				<li><a href="http://www.facebook.com/romy.lazarev" target="_blank" class="btn "><img src="./img/glyphicons_fb.png"/></a></li>
+				<li><a href="http://www.linkedin.com/in/romymedan/" target="_blank" class="btn "><img src="./img/glyphicons_linked_in.png"/></a></li>
 				</ul>
 							
 			</div>
@@ -32,37 +34,22 @@
 				
 					<ul class="nav nav-pills">
 						<li class="active"><a  class="anchorLink"  href="#ref">References</a></li>
-						<li><a  class="anchorLink" href="#need">Need a Web Site ?</a></li>
+						<li><a  class="anchorLink" href="#need">Need a Web Designer?</a></li>
 						<li><a  class="anchorLink" href="#who">Who am I ?</a></li>
 						<li><a  class="anchorLink"  href="#contact">Contact Me</a></li>
 					</ul>	
 				
 					<div class="tab-pane" id="ref">
-						<h2>References</h2>
+						<h2>Portfolio</h2>
 						<ul class="thumbnails">
 							<li class="span4">
-							  <a class="thumbnail" href="#">
-								<img alt="" src="./img/merchant.jpg">
+							  <a class="thumbnail" target="_blank" href="./website/index.html">
+								<img alt="" src="./website/img/screenshot.jpg">
 							  </a>
 							</li>
-							<li class="span2">
-							  <a class="thumbnail" href="#">
-								<img alt="" src="./img/merchant.jpg">
-							  </a>
-							</li>
-							<li class="span2">
-							  <a class="thumbnail" href="#">
-								<img alt="" src="./img/smpl.jpg">
-							  </a>
-							</li>
-							<li class="span2">
-							  <a class="thumbnail" href="#">
-								<img alt="" src="./img/whitelight.jpg">
-							  </a>
-							</li>
-							<li class="span2">
-							  <a class="thumbnail" href="#">
-								<img alt="" src="./img/wikeasi.jpg">
+							<!--<li class="span2">
+							  <a class="thumbnail" target="_blank" href="./handyman/index.html">
+								<img alt="" src="./handyman/screenshots/Handyman_b.jpg">
 							  </a>
 							</li>
 							<li class="span2">
@@ -82,17 +69,33 @@
 							</li>
 							<li class="span2">
 							  <a class="thumbnail" href="#">
+								<img alt="" src="./img/smpl.jpg">
+							  </a>
+							</li>
+							<li class="span2">
+							  <a class="thumbnail" href="#">
 								<img alt="" src="./img/whitelight.jpg">
 							  </a>
 							</li>
+							<li class="span2">
+							  <a class="thumbnail" href="#">
+								<img alt="" src="./img/wikeasi.jpg">
+							  </a>
+							</li>
+							<li class="span2">
+							  <a class="thumbnail" href="#">
+								<img alt="" src="./img/whitelight.jpg">
+							  </a>
+							</li> -->
 							
 						  </ul>
 					</div>
 					<hr/>
 					<div class="tab-pane" id="need">
 						<p class="top"><a class="anchorLink" href="#container"><i class="icon-hand-up"></i> top</a></p>
-						<h2>Need a Web Site?</h2>
-						<p>Just let me know!</p>
+						<h2>Looking for Junior Front End Developer / Web Designer?</h2>
+						<p>Just let me know! </br>
+						 I have experience with HTML, CSS, bootstap, jQuery, Photoshop and more.</p>
 					</div>	
 					<hr/>
 					<div class="tab-pane" id="who">

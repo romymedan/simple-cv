@@ -1,176 +1,181 @@
 body
 {
-background:url(../img/P1070188bg.jpg) 50% -58px no-repeat #fff;
-color:#000
+  background:url(../img/romybg.png) 56% -36px no-repeat #fff;
+  color:#000
 }
 
 #container
 {
-background:url("../img/P1070050edited - Copy.jpg") no-repeat scroll -129px -58px #fff;
-box-shadow: 0 0 8px #999999;
+  background:url("../img/romy.png") no-repeat scroll -102px -40px #fff;
+  box-shadow: 0 0 8px #999999;
 }
 
 .hero-unit
 {
-border-radius: 90px 90px 90px 90px;
-background: none repeat scroll 0 0 #000;
-border-radius: 90px 90px 90px 90px;
-left: 3px;
-position: relative;
-text-align: center;
-top: 43px;
-color:#fff
+  border-radius: 90px 90px 90px 90px;
+  background: none repeat scroll 0 0 #000;
+  border-radius: 90px 90px 90px 90px;
+  left: 3px;
+  position: relative;
+  text-align: center;
+  top: 43px;
+  color:#fff
 }
 
 .hero-unit h1 
 {
 
-font-family: Trebuchet MS;
-font-size: 31px;
+  font-family: Trebuchet MS;
+  font-size: 31px;
 }	
 
 .hero-unit .arrow-right
 {
-border-bottom: 40px solid transparent;
-border-right: 140px solid #000;
-bottom: 7%;
-left: -73px;
-position: absolute;
+  border-bottom: 40px solid transparent;
+  border-right: 140px solid #000;
+  bottom: 7%;
+  left: -73px;
+  position: absolute;
 }
 
 
 .container .content
 {
-padding:20px 50px
+  padding:20px 50px
 }
 
 .container .content hr
 {
-border-color:#eee;
-border-width:1px 0 0 0
+  border-color:#eee;
+  border-width:1px 0 0 0
 }
 
 .container .content h1 , .container .content h2, .container .content h3
 {
-font-weight:normal
+  font-weight:normal
 }
 
 
 .container .content h2
 {
-color:#000;
-font-family: Trebuchet MS;
+  color:#000;
+  font-family: Trebuchet MS;
 }
 .container .content .active h2
 {
-color:#23CEFB
+  color:#23CEFB
 }
 
 .tab-pane 
 {
-margin-bottom:30px
+  margin-bottom:30px
 }
 
 .tab-pane.active
 {
-opacity:1
+  opacity:1
 
 }
 
 .container .content p
 {
-font-weight:normal;
-font-family:tahoma, verdana, arial
+  font-weight:normal;
+  font-family:tahoma, verdana, arial
 }
 
 a, a:hover
 {
-color:#23cefb
+  color:#23cefb
 }
 
 .nav-pills > .active > a, .nav-pills > .active > a:hover
 {
-background:#23cefb
+  background:#23cefb
 }
 
 
 .arrow-right
 {
-border-bottom: 10px solid transparent;
-border-right: 10px solid #000;
-height: 0;
-width: 0;
-display:block;
-float:left;
-margin-right:10px
+  border-bottom: 10px solid transparent;
+  border-right: 10px solid #000;
+  height: 0;
+  width: 0;
+  display:block;
+  float:left;
+  margin-right:10px
 }
 
 .nav .arrow-right
 {
-border-left: transparent;
-border-bottom: 10px solid #000;
-border-right: transparent;
-border-top: 10px solid #000;
+  border-left: transparent;
+  border-bottom: 10px solid #000;
+  border-right: transparent;
+  border-top: 10px solid #000;
 }
 
 .relations
 {
 
-list-style: none outside none;
-margin-top:30px
+  list-style: none outside none;
+  margin-top:30px
 
 }
 
 .relations li
 {
 
-float:right;
-margin-left:10px
+  float:right;
+  margin-left:10px
 
 }
 
 .btn, .relations a:hover
 {
-background:#000
+  background:#000
 }
 .relations a img
 {
-background:#fff
+  background:#fff
 }
 
 .relations a:hover img
 {
-background:#23CEFB
+  background:#23CEFB
 }
 
 
 
 .border-dotted
 {
-border-left:1px dotted #555
+  border-left:1px dotted #555
 }
 
 .main
 {
-background: rgba(255, 255, 255, 0.9);
-border:1px solid #EEEEEE;
-border-bottom:0;
-min-height:500px
+  background: rgba(255, 255, 255, 0.9);
+  border:1px solid #EEEEEE;
+  border-bottom:0;
+  min-height:500px
 
 }
 
 .main .content
 {
 
-padding: 10px 50px;
+  padding: 10px 50px;
 }
 
 .top
 {
-float:right
+  float:right
 }
 
 a.thumbnail :hover
 {
-border-color:#23CEFB
+  border-color:#23CEFB
+}
+
+label.error
+{
+	color:red;
 }

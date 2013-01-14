@@ -1,0 +1,217 @@
+
+		
+/*
+**************************
+* =miscellanious
+**************************
+*/
+
+.container_24{
+	margin-top: 10px;
+}
+
+blockquote{
+	position: relative;
+}
+
+blockquote, blockquote p{
+	font-size: 15px;
+	line-height:20px;
+	font-style: italic;
+	color: #0e0e0e;
+}
+
+h1,h2{
+	letter-spacing: -1px;
+}
+
+h3{
+	font-size: 26px;
+	border-bottom: 1px solid #d1d1d1;
+	padding-bottom: 30px;
+	padding-bottom: 27px;
+	margin-bottom: 16px;
+	line-height: 1em;
+}
+
+p{
+	font-size: 13px;
+	line-height: 20px;
+	color: #353535;
+}
+
+a{
+	color: #7e7e7e;
+	text-decoration: none;
+}
+
+a:hover, .selected {
+	color: black;
+}
+
+li{
+	margin-left: 24px;
+}
+
+.button{
+	background: #242324;
+	padding: 6px;
+	text-transform: uppercase;
+	color: white;
+	font-size: 11px;
+}
+
+.button:hover{
+	background: black;
+	color: white;
+}
+/*
+**************************
+* =header
+**************************
+*/
+
+header{
+	overflow: hidden;
+}
+
+header h1{
+	text-indent: -9999px;
+	float: left;
+	margin-bottom: 0px;
+}
+
+header h1 a{
+	background: url(../img/logo.png) no-repeat;
+    width: 174px;
+	height: 23px;
+	float: left;
+	margin: 10px 10px 23px;
+}
+		
+/*
+**************************
+* =nav
+**************************
+*/
+
+nav{
+	float: right;
+	padding-top: 12px;
+}
+
+nav li {
+	display: inline;
+}
+
+		
+/*
+**************************
+* =banner
+**************************
+*/
+
+.banner{
+	background: url(../img/city-bg.jpg) no-repeat;
+	width: 662px;
+	height: 232px;
+	clear:both;
+	position: relative;
+}
+
+.banner h2{
+	color: white;
+	font-size: 28px;
+	width: 400px;
+	font-weight: normal;
+	position: absolute;
+	bottom: -10px;
+	left: 8px;
+	padding: 0px 8px;
+	background: rgba(0,0,0, .5);
+}
+
+.callout{
+	background: black;
+	height: 232px;
+}
+
+		
+/*
+**************************
+* =main
+**************************
+*/
+
+.main{
+	margin-top: 20px;
+	clear: both;
+}
+
+.main blockquote p{
+	padding-left: 30px;
+}
+
+.main blockquote p:before,
+.main blockquote p:after{
+	font-size: 40px;
+	color: #bfbfbf;
+	font-style: italic;
+}
+
+.main blockquote p:first-child:before{
+	content: '“';
+	position: absolute;
+	top: 7px;
+	left: 0px;
+}
+
+.main blockquote p:last-child:after{
+	content: '”';
+	float: right;
+	position: absolute;
+	bottom: -7px;
+	right: 0px;
+}
+
+/*
+**************************
+* =footer
+**************************
+*/
+
+footer{
+	clear: both;
+	border-top: 1px solid #d1d1d1;
+	padding-top: 18px;
+	margin-top: 30px;
+}
+
+
+		
+/*
+**************************
+* =work
+**************************
+*/
+
+.work h2, h4{
+	font-weight: normal;
+	font-size: 26px;
+}
+
+.work h2{
+	margin-bottom: 0px;
+}
+
+.work img{
+	margin-bottom: 30px;
+}
+
+.work h4{
+	color: #787878;
+	line-height: 1.2em;
+	border-bottom: 1px solid #d1d1d1;
+	padding-bottom: 33px;
+	margin-bottom: 30px;
+}
