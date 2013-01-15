@@ -1,12 +1,12 @@
 body
 {
-  background:url(../img/romybg.png) 56% -36px no-repeat #fff;
+  background:url(../img/romybg.png) 50% -48px no-repeat #fff;
   color:#000
 }
 
 #container
 {
-  background:url("../img/romy.png") no-repeat scroll -102px -40px #fff;
+  background:url("../img/romy.png") no-repeat scroll -115px -51px #fff;
   box-shadow: 0 0 8px #999999;
 }
 
