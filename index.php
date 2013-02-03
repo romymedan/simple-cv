@@ -47,12 +47,12 @@
 								<img alt="" src="./website/img/screenshot.jpg">
 							  </a>
 							</li>
-							<!--<li class="span2">
-							  <a class="thumbnail" target="_blank" href="./handyman/index.html">
-								<img alt="" src="./handyman/screenshots/Handyman_b.jpg">
+							<li class="span3">
+							  <a class="thumbnail" target="_blank" href="./jqgame/index.html">
+								<img alt="" src="./jqgame/img/scrshotgame.png">
 							  </a>
 							</li>
-							<li class="span2">
+							<!--<li class="span2">
 							  <a class="thumbnail" href="#">
 								<img alt="" src="./img/smpl.jpg">
 							  </a>
@@ -95,7 +95,7 @@
 						<p class="top"><a class="anchorLink" href="#container"><i class="icon-hand-up"></i> top</a></p>
 						<h2>Looking for Junior Front End Developer / Web Designer?</h2>
 						<p>Just let me know! </br>
-						 I have experience with HTML, CSS, Bootstrap, jQuery, Photoshop and more.</p>
+						 I have experience with HTML, CSS, <B></B>ootstrap, jQuery, Photoshop and more.</p>
 					</div>	
 					<hr/>
 					<div class="tab-pane" id="who">
