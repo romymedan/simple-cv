@@ -95,7 +95,7 @@
 						<p class="top"><a class="anchorLink" href="#container"><i class="icon-hand-up"></i> top</a></p>
 						<h2>Looking for Junior Front End Developer / Web Designer?</h2>
 						<p>Just let me know! </br>
-						 I have experience with HTML, CSS, <B></B>ootstrap, jQuery, Photoshop and more.</p>
+						 I have experience with HTML, CSS, Bootstrap, jQuery, Photoshop and more.</p>
 					</div>	
 					<hr/>
 					<div class="tab-pane" id="who">
